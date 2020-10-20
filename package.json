@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_mongodb_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiZii/nodejs_mongodb_module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiZii/nodejs_mongodb_module/issues"
+  },
+  "homepage": "https://github.com/ChiZii/nodejs_mongodb_module#readme",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
